@@ -1,0 +1,5 @@
+vehicle_ifname=eno1
+vehicle_ipaddr=fe80::5555:6666:7777:8888%eno1
+pc_ifname=eno1
+pc_ipaddr=fe80::5555:6666:7777:8888%eno1
+
